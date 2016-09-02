@@ -13,6 +13,6 @@
 ##关于
 * 使用的数据集 [Music Listening Dataset](http://audioscrobbler.com)
 * [click](http://www-etud.iro.umontreal.ca/~bergstrj/audioscrobbler_data.html) 下载数据集
-* AudioscrobblerALS.scala 是一个不知道从哪里弄来的参考，我自己做完实验了才发现的。
+* src/AudioscrobblerALS.scala 是一个不知道从哪里弄来的参考，我自己做完实验了才发现的。
 
 
